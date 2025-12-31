@@ -1,0 +1,10 @@
+# 忽略 Obsidian 的缓存和临时文件
+.obsidian/
+.trash/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 可选：如果你不想同步附件文件夹，可以添加
+# attachments/
