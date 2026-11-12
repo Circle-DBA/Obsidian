@@ -1,0 +1,15 @@
+{
+  "commitMessage": "笔记同步: {{date}}",
+  "autoCommitMessage": "笔记同步: {{date}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "autoSaveInterval": 10,
+  "autoPushInterval": 10,
+  "autoPullInterval": 10,
+  "autoPullOnBoot": true,
+  "differentIntervalCommitAndPush": false,
+  "disablePush": false,
+  "pullBeforePush": true,
+  "syncMethod": "merge",
+  "showStatusBar": true,
+  "listChangedFilesInMessageBody": false
+}
